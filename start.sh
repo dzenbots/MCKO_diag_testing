@@ -7,4 +7,7 @@ pip3 install playwright
 playwright install chromium
 
 python main.py
+
+shutdown
+
 "
